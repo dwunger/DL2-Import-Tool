@@ -1,0 +1,7 @@
+Guide:
+In order for this to work, you must:
+1. import your mesh using the DL1 devtools
+2. take the mesh that was created and paste it into the same folder as the .exe file
+3. rename it to "input2a"
+4. copy the given "common_meshes_pc.rpack" into the same folder as the .exe file
+5. enjoy
